@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! I'm Stefan Krieger, a math student at the University of Vienna with a passion for technology and finance. My academic focus includes machine learning, data science, and financial mathematics, where I've worked on projects like credit card fraud detection and chess position analysis.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Currently, I'm a Data Scientist at Lumos Student Data Consulting, working on exciting projects like Optical Character Recognition for invoice data. My previous roles in technical support and finance have provided me with a diverse skill set, from diagnosing technical issues to analyzing financial situations.
+
+At university, I also serve as a Faculty Representative for Mathematics, where I help organize meetings and support fellow students. You can connect with me on LinkedIn or check out my projects on Medium. Let's connect and explore the world of math, tech, and finance together!
