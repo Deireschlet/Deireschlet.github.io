@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Stefan Krieger"
   avatar : "/assets/images/Foto_aktuell.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Math student @University of Vienna"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
